@@ -18,4 +18,8 @@ public class Test {
     public static void get() {
         System.out.println("执行get");
     }
+
+    public void test5() {
+        System.out.println("djdj");
+    }
 }
