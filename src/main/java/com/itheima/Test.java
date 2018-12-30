@@ -8,10 +8,7 @@ public class Test {
     public static void main(String[] args) {
         get();
         System.out.println("ddd");
-        System.out.println("ddd");
-        System.out.println("ddd");
-        System.out.println("ddd");
-        System.out.println("ddd");
+
 
     }
     @MyAnno
