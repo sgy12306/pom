@@ -7,7 +7,7 @@ import java.security.PublicKey;
 public class Test {
     public static void main(String[] args) {
         get();
-        System.out.println("ddd");
+        System.out.println("yyy");
 
 
     }
@@ -16,7 +16,5 @@ public class Test {
         System.out.println("执行get");
     }
 
-    public void test5() {
-        System.out.println("djdj");
-    }
+
 }
